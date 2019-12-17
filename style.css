@@ -1,0 +1,40 @@
+.grid{
+	display:grid;
+	grid-template:20% 20%/ 20% 20%;
+	background-color:solid black;
+	border:solid black 2px;
+	width:50%;
+	height:80%;
+	background-color:grey
+}
+.FINAL{
+	border:solid red 2px;
+	display:grid;
+	height:150;
+	width:100%;
+	grid-gap:2px;
+	grid-template:50% 50%/ 50% 50%;
+}
+.FINALa, .FINALb, .FINALc, .FINALd{
+	border:solid red 1px;
+	display:grid;
+	background-color:white;
+	
+}
+.FINAL2{
+	display:grid;
+	height:80%;
+	width:50%;
+	float:right;
+	font-size:50px;
+}
+
+.FINAL4{
+	display:grid;
+	height:100%;
+	width:500%;
+	background-color:white;
+}
+	 
+
+
